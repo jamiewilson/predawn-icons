@@ -31,4 +31,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 [Predawn]: http://jamiewilson.io/predawn/ "Predawn Filetype Icons"
-[Download]: http://example.com/  "Download Ai File ⬇︎"
+[Download]: https://github.com/jamiewilson/predawn-file-icons/archive/master.zip  "Download Ai File ⬇︎"
